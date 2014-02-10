@@ -1,7 +1,9 @@
 ---
 layout: content
-title: Formal Ontologies meet Industry - Rio de Janeiro, Brazil - September 22
+title: 6th Workshop on Formal Ontologies meet Industry (FOMI)
 ---
+
+## Rio de Janeiro, Brazil - September 22, 2014
 
 FOMI is an international forum where academic researchers and
 industrial practitioners meet to analyse and discuss application
@@ -58,7 +60,7 @@ Ontology in practice:
  - ontologies for medical sciences
  - ontologies for engineering
 
-### Workshop Chairs
+## Workshop Chairs
 
 - [Vinay K. Chaudhri](http://www.ai.sri.com/people/chaudhri)
   (SRI International, USA)
