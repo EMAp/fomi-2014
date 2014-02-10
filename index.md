@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Welcome to Rio de Janeiro, Brazil - Setember 22
+title: Formal Ontologies meet Industry - Rio de Janeiro, Brazil - September 22
 ---
 
 FOMI is an international forum where academic researchers and
