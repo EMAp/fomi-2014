@@ -1,0 +1,7 @@
+safe: false
+pygments: true
+markdown: rdiscount
+redirects: false
+exclude: ["README.md"]
+baseurl: /fomi-2014/
+
