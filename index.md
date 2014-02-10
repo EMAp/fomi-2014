@@ -1,9 +1,7 @@
 ---
 layout: content
-title: 6th Workshop on Formal Ontologies meet Industry (FOMI)
+title: 6th Workshop on Formal Ontologies meet Industry
 ---
-
-## Rio de Janeiro, Brazil - September 22, 2014
 
 FOMI is an international forum where academic researchers and
 industrial practitioners meet to analyse and discuss application
