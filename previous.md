@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Previous SIBIGRAPI editions
+title: Previous editions
 ---
 
 - [DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/fomi/index.html)
