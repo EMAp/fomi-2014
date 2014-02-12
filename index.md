@@ -29,6 +29,9 @@ practitioners that embrace this perspective without restrictions on
 the domain they deal with: business, medicine, engineering, finance,
 law, biology, geography, electronics, etc.
 
+The workshop is associated with
+[FOIS 2014](http://fois2014.inf.ufes.br/p/home.html).
+
 ## Conference Topics
 
 Not exhaustive.
@@ -57,6 +60,11 @@ Ontology in practice:
  - ontologies for finance
  - ontologies for medical sciences
  - ontologies for engineering
+
+## Submissions
+
+The papers should be submitted to
+[EasyChair](https://www.easychair.org/conferences/?conf=fomi2014).
 
 ## Workshop Chairs
 
