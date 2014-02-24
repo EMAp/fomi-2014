@@ -1,9 +1,7 @@
 ---
 layout: content
-title: Committee
+title: Program Committee
 ---
-
-## Program Committee
 
 - [Adam Pease](http://www.adampease.org/professional/)
 - Chris Partridge
