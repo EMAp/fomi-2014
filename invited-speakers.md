@@ -1,12 +1,15 @@
 ---
 layout: content
-title: Invited Speakers - Mara Abel
+title: Invited Speakers
 ---
 
-**Modelling geological knowledge for petroleum exploration: Why should
-we bother about good models?**
+## Modelling geological knowledge for petroleum exploration: Why should we bother about good models?
 
-## Abstract
+### Speaker
+
+- [Mara Abel](http://lattes.cnpq.br/6750115087374323)
+
+### Abstract
 
 Before designing a software application, a conceptual model is defined
 in order to simplify the geological reality and to help to understand
@@ -28,21 +31,29 @@ modeling choices and lead the modeler to define more precisely the
 geological objects in the model. We also present some knowledge-based
 applications developed according through these notions.
 
-## Short bio
+### Short bio
 
-Mara Abel has graduated in Geology and received a Masters and a
-Doctorate degree in Computer Science at the Federal University of Rio
-Grande do Sul (UFRGS), Brazil.  She is an Associate Professor at
-Informatics Institute of UFRGS, innovation researcher of CNPq (Level
-1) and the leader of the branch “Intelligent Database” in the group
-that applies Knowledge Engineering and ontologies to improve the
-semantic of database models, especially those applied to petroleum
-exploration data. She has produced remarkable petroleum industrial
-research, such as the Petroledge® system, an intelligent database for
-petroleum reservoir description and interpretation, and Strataledge® ,
-an ontology-based system for rock core description, commercialized by
-the ENDEEPER Company, a spin-off of her research group. She has
-managed 10 research or technology innovation projects with public or
-private funding from national and international institutions and she
-has published more than 50 conference papers, journals and book
-chapters in knowledge engineering.
+<table>
+<tr>
+<td><img src="img/mara.jpg" width="200px" /></td>
+<td style="padding: 5px;">
+<p><a href="http://lattes.cnpq.br/6750115087374323">Mara Abel</a> has graduated in
+Geology and received a Masters and a Doctorate degree in Computer
+Science at the Federal University of Rio Grande do Sul (UFRGS),
+Brazil.  She is an Associate Professor at Informatics Institute of
+UFRGS, innovation researcher of CNPq (Level 1) and the leader of the
+branch “Intelligent Database” in the group that applies Knowledge
+Engineering and ontologies to improve the semantic of database models,
+especially those applied to petroleum exploration data. She has
+produced remarkable petroleum industrial research, such as the
+Petroledge® system, an intelligent database for petroleum reservoir
+description and interpretation, and Strataledge® , an ontology-based
+system for rock core description, commercialized by the ENDEEPER
+Company, a spin-off of her research group. She has managed 10 research
+or technology innovation projects with public or private funding from
+national and international institutions and she has published more
+than 50 conference papers, journals and book chapters in knowledge
+engineering.</p>
+</td>
+</tr>
+</table>
