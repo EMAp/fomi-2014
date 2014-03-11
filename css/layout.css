@@ -1349,8 +1349,7 @@ td.hits
 
 td p
 {
-        margin:0;
-        line-height:1.3em
+        margin: 5px;
 }
 
 .filter
