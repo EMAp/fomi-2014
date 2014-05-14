@@ -51,7 +51,7 @@ Workshop: September 22, 2014
 
 SUBMISSION GUIDELINES
 
-Submitted papers must not exceed 14 pages (including the bibliography)
+Submitted papers must not exceed 10 pages (including the bibliography)
 and include an abstract of no more than 300 words. Papers should be
 submitted non-anonymously and be prepared in PDF format in accordance
 with the IOS formatting guidelines found at
@@ -79,4 +79,3 @@ PROGRAM COMMITTEE
 - Kavi Mahesh, PES University
 - Maira Gatti, IBM Research
 </pre>
-
