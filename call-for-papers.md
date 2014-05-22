@@ -5,7 +5,7 @@ title: Call for Papers
 
 <pre>
 Workshop on Formal Ontologies meet Industry
-http://empa.fgv.br/fomi-2014/
+http://emap.fgv.br/fomi-2014/
 
 22 September, 2014 Rio de Janeiro, Brazil
 
