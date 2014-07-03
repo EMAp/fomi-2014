@@ -43,10 +43,10 @@ law, biology, geography, electronics, etc.
 
 IMPORTANT DATES
 
-Paper submission deadline: May 22, 2014 (extended to May 30)
-Author notification: June 30, 2014
-Electronic versions of papers due: July 15, 2014
-Workshop: September 22, 2014
+Paper submission deadline: May 22th, 2014 (extended to May 30)
+Author notification: July 5th, 2014
+Electronic versions of papers due: July 20th, 2014
+Workshop: September 22th, 2014
 
 
 SUBMISSION GUIDELINES
