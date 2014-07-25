@@ -1,0 +1,28 @@
+
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| start |   end | Activity                                                                                                                                                                                      |
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 09:00 | 09:10 | *Workshop Opening*                                                                                                                                                                            |
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 09:10 | 10:00 | *Invited Talk*: Modelling geological knowledge for petroleum exploration: Why should we bother about good models?, Mara Abel (Federal University of Rio Grande do Sul, Brazil)                |
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10:00 | 11:00 | *Session 1*: Ontology Standards (Session Chair: Alexandre Rademaker)                                                                                                                          |
+| 10.00 | 10.25 | Towards an Ontological Grounding of IFC (Stefano Borgo, Emilio Sanfilippo and Walter Terkaj)                                                                                                  |
+| 10.25 | 10.50 | ISA-88 formalization. A step towards its integration with the ISA-95 standard (Marcela Vegetti and Gabriela Henning)                                                                          |
+| 10.50 | 11:00 | Discussion                                                                                                                                                                                    |
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11:00 | 11:30 | *Coffee Break*                                                                                                                                                                                |
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11:30 | 13:00 | *Session 2*:  Ontologies of Enterprise Applications (Session Chair: Vinay K. Chaudhri)                                                                                                        |
+| 11:30 | 11:55 | Ontologies in Enterprise Application: Dimensional Comparison (Valeria de Paiva, William Jarrold, David Martin, Peter Patel-Schneider, Karen Wallace and Peter Z. Yeh)                         |
+| 11:55 | 12:20 | Representing Organizational Structures in an Enterprise Architecture Language (Diorbert Pereira and João Almeida)                                                                             |
+| 12.20 | 13:00 | Discussion                                                                                                                                                                                    |
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 13:00 | 14:00 | *Lunch Break*                                                                                                                                                                                 |
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 14:00 | 15:30 | *Session 3*: Ontologies for Engineering and Service Applications (Chair: Alexandre Rademaker)                                                                                                 |
+| 14.00 | 14.25 | Towards Ontological Support for Principle Solutions in Mechanical Engineering (Thilo Breitsprecher, Mihai Codescu, Constantin Jucovschi, Michael Kohlhase, Lutz Schröder and Sandro Wartzack) |
+| 14.25 | 14.50 | Improving Ontology Service-Driven Entity Disambiguation (Patrice Seyed, Zach Fry and Deborah McGuinness)                                                                                      |
+| 14.50 | 15.15 | Discussion                                                                                                                                                                                    |
+|-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
