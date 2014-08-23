@@ -29,7 +29,7 @@ title: Tentative Program
 <tr>
 <td>10:00</td>
 <td>11:00</td>
-<td><b>Session 1</b>: Ontology Standards (Session Chair: Alexandre Rademaker)</td>
+<td><b>Session 1</b>: Ontology Standards (Chair: Alexandre Rademaker)</td>
 </tr>
 
 <tr>
@@ -61,7 +61,7 @@ title: Tentative Program
 <tr>
 <td>11:30</td>
 <td>13:00</td>
-<td><b>Session 2</b>:  Ontologies of Enterprise Applications (Session Chair: Vinay K. Chaudhri)</td>
+<td><b>Session 2</b>:  Ontologies of Enterprise Applications (Chair: Alexandre Rademaker)</td>
 </tr>
 
 <tr>
@@ -93,7 +93,7 @@ title: Tentative Program
 <tr>
 <td>14:00</td>
 <td>15:30</td>
-<td><b>Session 3</b>: Ontologies for Engineering and Service Applications (Chair: Alexandre Rademaker)</td>
+<td><b>Session 3</b>: Ontologies for Engineering and Service Applications (Chair: Vinay Chaudhri)</td>
 </tr>
 
 <tr>
